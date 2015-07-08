@@ -1,4 +1,4 @@
-# Welcome to the Training repo
+# Welcome to Dev Training Sessions
 
 #### Goals 
 A shared platform to request and document training topics to assist our internal team members in providing how-to's to our customers and user base.
