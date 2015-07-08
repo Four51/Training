@@ -4,7 +4,7 @@
 ### Agenda July 7, 2015 - 3:30-4pm
 
 * Training Repo - submitting topic requests (Jen)
-* 
+
 * Github Overview (Connor O'Brien)
 1. What is Github?
 2. Creating a new repo
